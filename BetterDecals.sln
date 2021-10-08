@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterDecals", "BetterDecals.csproj", "{31D0CC01-6068-4D2A-B147-7C4B5F706DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D0CC01-6068-4D2A-B147-7C4B5F706DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D0CC01-6068-4D2A-B147-7C4B5F706DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D0CC01-6068-4D2A-B147-7C4B5F706DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D0CC01-6068-4D2A-B147-7C4B5F706DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FBCB13A-AC4C-4480-9C7D-81089FC29619}
+	EndGlobalSection
+EndGlobal
