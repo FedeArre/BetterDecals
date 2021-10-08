@@ -18,4 +18,5 @@ Also, the mod allows to resize decals, for do this use the keys Z and X
 
 Remember that making it too small or too big (if the original photo is small) will make it lose quality.
 
+### Issues
 Any problems? Contact me at Discord: Fede#0554 (try to include your Player.log that is located in your save's folder)
