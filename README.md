@@ -1,5 +1,5 @@
 ## BetterDecals
-Did you wanted to add a M2 decal to your poor rusty LAD? Now you can!
+Did you wanted to add a racing decal or create a custom paintjob to your poor rusty LAD? Now you can!
 
 BetterDecals is a mod about giving more functionality to the decals in the game. The mod allows users to install their own custom decals (provided as .png / .jpg / .bmp) and also resize them.
 
@@ -19,4 +19,4 @@ Also, the mod allows to resize decals, for do this use the keys Z and X
 Remember that making it too small or too big (if the original photo is small) will make it lose quality.
 
 ### Issues
-Any problems? Contact me at Discord: Fede#0554 (try to include your Player.log that is located in your save's folder)
+Any problems? Contact me at Discord: Fede#0005 (try to include your Player.log that is located in your save's folder)
